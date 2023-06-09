@@ -178,6 +178,7 @@
 .footer {
     height: 567px;
     position: relative;
+    margin-top: 57px;
 
     img {
         width: 100%;
@@ -203,6 +204,9 @@
 
     .header_ul {
         width: 490px;
+    }
+    .footer{
+        margin: 0;
     }
 }
 
@@ -306,6 +310,7 @@
     }
 
     .footer {
-        height: 150px;
+        height: 170px;
+
     }
 }

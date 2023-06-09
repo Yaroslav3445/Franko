@@ -167,6 +167,7 @@
 .footer {
   height: 567px;
   position: relative;
+  margin-top: 57px;
 }
 .footer img {
   width: 100%;
@@ -187,6 +188,9 @@
   }
   .header_ul {
     width: 490px;
+  }
+  .footer {
+    margin: 0;
   }
 }
 @media (max-width: 800px) {
@@ -267,6 +271,6 @@
     width: 230px;
   }
   .footer {
-    height: 150px;
+    height: 170px;
   }
 }/*# sourceMappingURL=App.css.map */
